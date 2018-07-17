@@ -1,4 +1,0 @@
-#Configura roteador
-ifconfig eth0 192.168.0.37/27
-ifconfig eth1 192.168.0.34/30
-route add -net 192.168.0.32/30 gw 192.168.0.33  

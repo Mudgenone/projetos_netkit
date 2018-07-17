@@ -1,3 +1,0 @@
-#Configura rede
-ifconfig eth0 192.168.0.41/27
-route add default gw 192.168.0.37  
